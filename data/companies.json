@@ -1,0 +1,92 @@
+[
+  {
+    "name": "楽天",
+    "industry": "IT・EC・金融",
+    "feature": "ECから金融まで展開する巨大ネット企業",
+    "suitableFor": "幅広い事業で挑戦したい人",
+    "caution": "部署によって業務内容の差が大きい",
+    "popularityRating": 5,
+    "growthRating": 4
+  },
+  {
+    "name": "リクルート",
+    "industry": "人材・広告・IT",
+    "feature": "若手裁量と営業力育成で有名",
+    "suitableFor": "成長環境で圧倒的に伸びたい人",
+    "caution": "成果主義色が強い",
+    "popularityRating": 5,
+    "growthRating": 5
+  },
+  {
+    "name": "キーエンス",
+    "industry": "メーカー",
+    "feature": "超高収益・高年収メーカー",
+    "suitableFor": "実力主義で稼ぎたい人",
+    "caution": "ハードワークと言われやすい",
+    "popularityRating": 5,
+    "growthRating": 4
+  },
+  {
+    "name": "サイバーエージェント",
+    "industry": "IT・広告",
+    "feature": "若手抜擢が多い人気IT企業",
+    "suitableFor": "IT業界で裁量を持ちたい人",
+    "caution": "変化スピードが速い",
+    "popularityRating": 5,
+    "growthRating": 5
+  },
+  {
+    "name": "アクセンチュア",
+    "industry": "コンサル",
+    "feature": "世界最大級の総合コンサル",
+    "suitableFor": "論理思考と成長を求める人",
+    "caution": "忙しい案件も多い",
+    "popularityRating": 5,
+    "growthRating": 5
+  },
+  {
+    "name": "Speee",
+    "industry": "IT・DX",
+    "feature": "急成長ベンチャーで裁量大",
+    "suitableFor": "若手から責任ある仕事したい人",
+    "caution": "主体性が強く求められる",
+    "popularityRating": 3,
+    "growthRating": 5
+  },
+  {
+    "name": "レバレジーズ",
+    "industry": "人材・IT",
+    "feature": "人材領域で急成長中",
+    "suitableFor": "営業力を高めたい人",
+    "caution": "目標達成意識が必要",
+    "popularityRating": 4,
+    "growthRating": 5
+  },
+  {
+    "name": "パーソルキャリア",
+    "industry": "人材",
+    "feature": "doda運営の大手人材会社",
+    "suitableFor": "安定と成長両方ほしい人",
+    "caution": "部署差がある",
+    "popularityRating": 4,
+    "growthRating": 4
+  },
+  {
+    "name": "ネオキャリア",
+    "industry": "人材",
+    "feature": "新卒採用支援に強い企業",
+    "suitableFor": "若手営業経験を積みたい人",
+    "caution": "体育会系と感じる人もいる",
+    "popularityRating": 3,
+    "growthRating": 3
+  },
+  {
+    "name": "ビズリーチ",
+    "industry": "HRTech",
+    "feature": "転職プラットフォームで有名",
+    "suitableFor": "IT×人材に興味ある人",
+    "caution": "変化対応力が必要",
+    "popularityRating": 4,
+    "growthRating": 4
+  }
+]
