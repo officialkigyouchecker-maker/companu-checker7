@@ -11,7 +11,6 @@ function SearchResults({ query }: { query: string }) {
   const results = (companies as Company[]).filter(
     (company) =>
       company.name.toLowerCase().includes(normalizedQuery) ||
-      company.id.toLowerCase().includes(normalizedQuery) ||
       company.industry.toLowerCase().includes(normalizedQuery)
   );
 
