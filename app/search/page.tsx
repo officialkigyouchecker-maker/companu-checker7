@@ -37,6 +37,20 @@ function SearchResults({ query }: { query: string }) {
     );
   }
 
+  return (
+  <div className="space-y-4 animate-fadeIn">
+    <p className="text-sm text-gray-500 mb-4">
+      <span className="font-semibold text-primary-600">
+        {results.length}
+      </span>{" "}
+      件の企業が見つかりました
+    </p>
+
+    {results.map((company) => (
+      <CompanyCard key={company.name} company={company} />
+    ))}
+  </div>
+ );
  
 }
 
