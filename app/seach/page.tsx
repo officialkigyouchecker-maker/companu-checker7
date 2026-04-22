@@ -11,7 +11,6 @@ function SearchResults({ query }: { query: string }) {
   const results = (companies as Company[]).filter(
     (company) =>
       company.name.toLowerCase().includes(normalizedQuery) ||
-      company.id.toLowerCase().includes(normalizedQuery) ||
       company.industry.toLowerCase().includes(normalizedQuery)
   );
 
@@ -45,7 +44,7 @@ function SearchResults({ query }: { query: string }) {
         件の企業が見つかりました
       </p>
       {results.map((company) => (
-        <CompanyCard key={company.id} company={company} />
+        <CompanyCard key={company.name} company={company} />
       ))}
     </div>
   );
